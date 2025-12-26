@@ -1,6 +1,6 @@
 # Sistem Fuzzy Logic - Performance Analysis
 
-Aplikasi web untuk analisis tingkat performa menggunakan metode Fuzzy Logic Tsukamoto. Sistem ini menggunakan 4 variabel input dan 27 rule base untuk menghasilkan output kategori performa (Rendah, Sedang, Tinggi).
+Aplikasi web untuk analisis tingkat performa menggunakan metode Fuzzy Logic Tsukamoto. Sistem ini menggunakan 4 variabel input dan 81 rule base lengkap untuk menghasilkan output kategori performa (Rendah, Sedang, Tinggi).
 
 ## Fitur Utama
 
